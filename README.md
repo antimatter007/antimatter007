@@ -8,10 +8,10 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm currently pursuing Chemical Engineering from IIT Bombay 
+- 🏦 I'm a Software Engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I have an exposure of many development languages
-- 🌱 I’m also into competetive programming
+- 🤔 BTech from IIT Bombay
+- 🌱 Worked at - Truckx, Kearney and many startups 
 - 💬 I love watching movies and TV Shows ,my all time fav being Breaking Bad and Better Call Saul
 - 😄 Pronouns: He/Him
 - 📝 I also rarely write blogs, check them out at https://letsage.blogspot.com/
