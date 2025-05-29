@@ -11,10 +11,8 @@
 - 🏦 I'm a Software Engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 BTech from IIT Bombay
-- 🌱 Worked at - Truckx, Kearney and many startups 
-- 💬 I love watching movies and TV Shows ,my all time fav being Breaking Bad and Better Call Saul
+- 🌱 Worked at - Edra Labs, Truckx, Kearney and many startups 
 - 😄 Pronouns: He/Him
-- 📝 I also rarely write blogs, check them out at https://letsage.blogspot.com/
 - 👯 I am a huge chess Enthusiast ,We can connect on [Chess.com](https://www.chess.com/member/ankitprasad0111)♟ to play some games
 
 <p align="center">
